@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1479308108 source:f:\practice\algorithms\cppcodeblocks\sum_of_subsets\main.cpp
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+

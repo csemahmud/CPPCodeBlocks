@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1474435700 source:f:\practice\algorithms\cppcodeblocks\bellmanford_singlesource_shortest_paths_general_weights\main.cpp
+	<stdio.h>
+	<conio.h>
+	<math.h>
+	<ctype.h>
+

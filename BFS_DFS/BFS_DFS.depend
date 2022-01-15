@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1473762544 source:f:\practice\algorithms\cppcodeblocks\bfs_dfs\main.cpp
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+

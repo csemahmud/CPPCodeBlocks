@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1631235793 source:f:\practice\algorithms\cppcodeblocks\multistage_graphs\main.cpp
+	<stdio.h>
+	<conio.h>
+	<math.h>
+	<ctype.h>
+

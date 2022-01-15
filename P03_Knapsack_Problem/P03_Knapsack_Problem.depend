@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1642020660 source:f:\practice\algorithms\cppcodeblocks\p03_knapsack_problem\main.cpp
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+

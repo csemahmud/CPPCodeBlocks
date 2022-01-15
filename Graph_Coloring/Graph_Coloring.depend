@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1474015393 source:f:\practice\algorithms\cppcodeblocks\graph_coloring\main.cpp
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+

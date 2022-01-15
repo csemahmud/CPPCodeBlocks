@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1581017059 source:f:\practice\algorithms\cppcodeblocks\p02_n_queens\main.cpp
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+

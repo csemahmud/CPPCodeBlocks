@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="Sum_Of_Subsets/Sum_Of_Subsets.cbp" />
+		<Project filename="Graph_Coloring/Graph_Coloring.cbp" />
+		<Project filename="Maximum_Range/Maximum_Range.cbp" />
+		<Project filename="N_Queens/N_Queens.cbp" />
+		<Project filename="BFS_DFS/BFS_DFS.cbp" />
+		<Project filename="Multistage_Graphs/Multistage_Graphs.cbp" />
+		<Project filename="AllPairs_Shortest_Paths/AllPairs_Shortest_Paths.cbp" />
+		<Project filename="BellmanFord_SingleSource_Shortest_Paths_General_Weights/BellmanFord_SingleSource_Shortest_Paths_General_Weights.cbp" />
+		<Project filename="String_Editing/String_Editing.cbp" />
+		<Project filename="Knapsack_Problem/Knapsack_Problem.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

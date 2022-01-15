@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1474387614 source:f:\practice\algorithms\cppcodeblocks\allpairs_shortest_paths\main.cpp
+	<stdio.h>
+	<conio.h>
+	<math.h>
+	<ctype.h>
+

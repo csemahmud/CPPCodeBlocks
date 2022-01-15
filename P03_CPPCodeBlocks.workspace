@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="P03_Sum_Of_Subsets/P03_Sum_Of_Subsets.cbp" />
+		<Project filename="P03_Graph_Coloring/P03_Graph_Coloring.cbp" />
+		<Project filename="P03_Maximum_Range/P03_Maximum_Range.cbp" />
+		<Project filename="P03_N_Queens/P03_N_Queens.cbp" />
+		<Project filename="P03_BFS_DFS/P03_BFS_DFS.cbp" />
+		<Project filename="P03_Multistage_Graphs/P03_Multistage_Graphs.cbp" />
+		<Project filename="P03_AllPairs_Shortest_Paths/P03_AllPairs_Shortest_Paths.cbp" />
+		<Project filename="P03_BellmanFord_SingleSource_Shortest_Paths_General_Weights/P03_BellmanFord_SingleSource_Shortest_Paths_General_Weights.cbp" />
+		<Project filename="P03_String_Editing/P03_String_Editing.cbp" />
+		<Project filename="P03_Knapsack_Problem/P03_Knapsack_Problem.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="P02_Sum_Of_Subsets/P02_Sum_Of_Subsets.cbp" />
+		<Project filename="P02_Graph_Coloring/P02_Graph_Coloring.cbp" />
+		<Project filename="P02_Maximum_Range/P02_Maximum_Range.cbp" />
+		<Project filename="P02_N_Queens/P02_N_Queens.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
