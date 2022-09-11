@@ -11,5 +11,6 @@
 		<Project filename="P03_BellmanFord_SingleSource_Shortest_Paths_General_Weights/P03_BellmanFord_SingleSource_Shortest_Paths_General_Weights.cbp" />
 		<Project filename="P03_String_Editing/P03_String_Editing.cbp" />
 		<Project filename="P03_Knapsack_Problem/P03_Knapsack_Problem.cbp" />
+		<Project filename="P03_Odd_Fibonacci_Prime_Numbers_2209/P03_Odd_Fibonacci_Prime_Numbers_2209.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>

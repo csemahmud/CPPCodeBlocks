@@ -1,1 +1,7 @@
 # depslib dependency file v1.0
+1650328807 source:c:\khan_works\programmings\cppcodeblocks\p03_string_editing\main.cpp
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+

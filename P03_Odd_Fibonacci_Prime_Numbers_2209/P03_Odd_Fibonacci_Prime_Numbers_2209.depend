@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662749674 source:c:\khan_works\programmings\cppcodeblocks\p03_odd_fibonacci_prime_numbers_2209\main.cpp
+	<stdio.h>
+	<conio.h>
+	<math.h>
+

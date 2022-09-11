@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_workspace_layout_file>
-	<ActiveProject path="P03_Knapsack_Problem/P03_Knapsack_Problem.cbp" />
+	<FileVersion major="1" minor="0" />
+	<ActiveProject path="P03_Odd_Fibonacci_Prime_Numbers_2209/P03_Odd_Fibonacci_Prime_Numbers_2209.cbp" />
+	<PreferredTarget name="Debug" />
 </CodeBlocks_workspace_layout_file>

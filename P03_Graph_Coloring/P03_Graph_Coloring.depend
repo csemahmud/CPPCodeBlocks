@@ -1,1 +1,6 @@
 # depslib dependency file v1.0
+1650328807 source:c:\khan_works\programmings\cppcodeblocks\p03_graph_coloring\main.cpp
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+
