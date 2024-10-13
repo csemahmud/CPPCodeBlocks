@@ -12,5 +12,10 @@
 		<Project filename="P03_String_Editing/P03_String_Editing.cbp" />
 		<Project filename="P03_Knapsack_Problem/P03_Knapsack_Problem.cbp" />
 		<Project filename="P03_Odd_Fibonacci_Prime_Numbers_2209/P03_Odd_Fibonacci_Prime_Numbers_2209.cbp" />
+		<Project filename="P03_Odd_Fibonacci_Prime_Numbers_2410/P03_Odd_Fibonacci_Prime_Numbers_2410.cbp" />
+		<Project filename="P03_AtCoder_test/P03_AtCoder_test.cbp" />
+		<Project filename="P03_AtCoder_20241010/P03_AtCoder_20241010.cbp" />
+		<Project filename="P03_AtCoder_20241009/P03_AtCoder_20241009.cbp" />
+		<Project filename="P03_AtCoder_20241003/P03_AtCoder_20241003.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>
