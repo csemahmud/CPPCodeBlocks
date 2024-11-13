@@ -52,7 +52,6 @@ Right
 
 */
 
-*/
 
 int main1() {
     
