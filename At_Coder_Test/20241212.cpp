@@ -21,3 +21,31 @@ int main() {
 
     return 0;
 }
+
+/*
+
+Sample input 1
+
+0 5
+
+Sample output 1
+
+5
+
+Sample input 2
+
+1 11
+
+Sample output 2
+
+1100
+
+Sample input 3
+
+2 85
+
+Sample output 3
+
+850000
+
+*/
