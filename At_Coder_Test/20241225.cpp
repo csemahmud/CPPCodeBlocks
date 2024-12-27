@@ -27,6 +27,34 @@ int main() {
     return 0;
 }
 
+/*
+
+Sample input 1
+
+AtCoder
+
+Sample output 1
+
+atcoder
+
+Sample input 2
+
+SunTORY
+
+Sample output 2
+
+SUNTORY
+
+Sample input 3
+
+a
+
+Sample output 3
+
+a
+
+*/
+
 int main1() {
 
     int n, m;
@@ -46,3 +74,34 @@ int main1() {
     cout << n;
     return 0;
 }
+
+/*
+
+Sample input 1
+
+5 10
+2 3 2 5 3
+
+Sample output 1
+
+3
+
+Sample input 2
+
+5 10
+2 3 2 3 5
+
+Sample output 2
+
+4
+
+Sample input 3
+
+1 5
+1
+
+Sample output 3
+
+1
+
+*/
